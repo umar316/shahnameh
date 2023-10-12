@@ -71,12 +71,12 @@
             "input_text": "Your Email Address",
             "input_color": "#999999",
             "input_color_bg": "#ffffff",
-            "input_color_border": "#ffffff",
+            "input_color_border": "#232323",
             "button_text": "<svg class=\"icon\" viewbox=\"0 0 407.436 407.436\"><polygon points=\"112.814,0 91.566,21.178 273.512,203.718 91.566,386.258 112.814,407.436 315.869,203.718 \"><\/polygon>                     <\/svg>",
             "button_width": 40,
             "button_color": "#ffffff",
-            "button_color_border": "#f4ad57",
-            "button_color_bg": "#f4ad57",
+            "button_color_border": "#232323",
+            "button_color_bg": "#232323",
             "button_color_bg_gradient": "",
             "button_color_hover": "#ffffff",
             "button_color_border_hover": "#ffffff",
@@ -132,7 +132,7 @@
         "border_footer_top_color": "#282828",
         "pdtop_footer_top": 95,
         "pdbottom_footer_top": 50,
-        "footer_top_bg": "#445c60",
+        "footer_top_bg": "#d2e0df",
         "footer_top_bg_gradient": "",
         "show_footer_top_bg_img": false,
         "footer_top_bg_position_x": "center",
@@ -141,9 +141,9 @@
         "footer_top_bg_attachment": "fixed",
         "footer_top_bg_size": "contain",
         "footer_top_text_align": "left",
-        "footer_top_title_color": "#ffffff",
-        "footer_top_color_link": "#e0e3e3",
-        "footer_top_color_link_hover": "#ffffff"
+        "footer_top_title_color": "#232323",
+        "footer_top_color_link": "#232323",
+        "footer_top_color_link_hover": "#727272"
       }
     },
     "573327a1-f0bc-4145-a60c-8b0b2949870c": {
