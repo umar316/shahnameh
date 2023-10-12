@@ -65,7 +65,7 @@
             "heading": "Heading",
             "subtext": "<p>Visit the <a href=\"https:\/\/new-ella-demo-11.myshopify.com\/?fts=0#\"><strong>Ella’s Journal<\/strong><\/a><\/p>",
             "enable_arrow": true,
-            "mg_top_des": -58,
+            "mg_top_des": 0,
             "mg_bottom_des": 28,
             "newsletter_form_width": 270,
             "input_text": "Your Email Address",
