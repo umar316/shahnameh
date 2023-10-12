@@ -57,7 +57,7 @@
             "menu_top_spacing": 38,
             "menu_bottom_spacing": 38,
             "grid_gap_menu_item": 15,
-            "alignment": "left",
+            "alignment": "center",
             "bg_mega_menu": "#ffffff",
             "bg_mega_menu_gradient": "",
             "lv_1_color": "#000000",
