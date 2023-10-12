@@ -19,7 +19,7 @@
         "e3eabeac-d3d2-415d-9705-8e495790da43": {
           "type": "announcement",
           "settings": {
-            "text": "<div class=\"message\" style=\"font-weight: 400;padding: 5px 15px;\">\nShop our new Fall 2019 collection. Free shipping on US orders over $289\n<\/div>",
+            "text": "<div class=\"message\" style=\"font-weight: 400;padding: 5px 15px;\">\nSHAHBALEH WINTER'23 IS LIVE NOW! NATIONWIDE FLAT SHIPPING PKR 200 ONLY!\n<\/div>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
@@ -53,7 +53,7 @@
         "sections--14682829619277__0bbca065-1adb-4f31-9571-358055671f87-16808750661fcf66bb-1": {
           "type": "main_menu",
           "settings": {
-            "menu": "header-10-menu",
+            "menu": "shah_menu",
             "menu_top_spacing": 38,
             "menu_bottom_spacing": 38,
             "grid_gap_menu_item": 15,
@@ -66,7 +66,7 @@
             "lv_2_color_hover": "#000000",
             "lv_3_color": "#000000",
             "lv_3_color_hover": "#000000",
-            "sale_item_1": "Offers",
+            "sale_item_1": "New Arrivals",
             "sale_item_2": "",
             "sale_item_3": "",
             "sale_item_color": "#d12442",
@@ -96,7 +96,7 @@
           "type": "logo",
           "settings": {
             "logo_position": "always",
-            "logo": "shopify:\/\/shop_images\/ella-logo.png",
+            "logo": "shopify:\/\/shop_images\/logo.webp",
             "logo_width": 90,
             "logo_width_fixed": 100,
             "logo_text": "",
@@ -113,13 +113,13 @@
             "show_search": true,
             "show_wishlist": true,
             "show_cart": true,
-            "show_language_currency": true,
+            "show_language_currency": false,
             "text_font_size": 16,
             "show_customer_sticky": true,
             "show_search_sticky": true,
             "show_wishlist_sticky": true,
             "show_cart_sticky": true,
-            "show_language_currency_sticky": true,
+            "show_language_currency_sticky": false,
             "header_icons_color": "#323232",
             "header_icons_color_hover": "#323232",
             "cart_count_bubble_color": "#323232",
@@ -135,11 +135,10 @@
             "item": "New In",
             "column": 3,
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner-mega-menu.jpg",
             "banner_url_1": "#",
             "show_product": true,
             "product_title": "Featured Products",
-            "product_collection": "belle-doll-cosmo-naminos-delementum-bra-3"
+            "product_collection": ""
           }
         },
         "db4371ff-0fe3-4fdb-b87c-cd30d53edee4": {
@@ -150,13 +149,10 @@
             "item": "accessories",
             "column": 3,
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner2.jpg",
             "banner_url_1": "shopify:\/\/collections",
             "show_banner_2": true,
-            "banner_2": "shopify:\/\/shop_images\/banner3.jpg",
             "banner_url_2": "shopify:\/\/collections",
             "show_banner_3": true,
-            "banner_3": "shopify:\/\/shop_images\/banner1.jpg",
             "banner_url_3": "shopify:\/\/collections"
           }
         },
@@ -190,10 +186,8 @@
             "menu_text_left": "",
             "menu_text_left_sale": "On Sale",
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner-header-5_390x255_464ac935-7180-40e3-af9d-8d549bb35a16.jpg",
             "banner_url_1": "",
             "show_banner_2": true,
-            "banner_2": "shopify:\/\/shop_images\/banner-header-7_480x_5e8eaad0-3beb-4c82-a01a-b5c34b827018.jpg",
             "banner_url_2": "",
             "show_az_brand": true,
             "az_brand_title": "All Brands A-Z",
@@ -240,8 +234,8 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify:\/\/shop_images\/ella-logo.png",
-            "logo_width_mobile": 65,
+            "logo_mobile": "shopify:\/\/shop_images\/logo.webp",
+            "logo_width_mobile": 150,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
@@ -277,8 +271,8 @@
         "background": "#ffffff",
         "gradient": "",
         "sticky_header_type": "on_scroll",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 5,
+        "padding_bottom": 12
       }
     }
   },
