@@ -2,6 +2,150 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
+    "1deeaf81-bbd5-4cfd-8032-f997504e9b7d": {
+      "type": "footer-07",
+      "blocks": {
+        "aec568d7-ff02-4c17-8be8-26273e0fa8f9": {
+          "type": "text",
+          "settings": {
+            "custom_width": "11",
+            "heading": "TALK TO US!",
+            "logo_margin_bottom": 28,
+            "logo_margin_top": 0,
+            "subtext": "<p><a href=\"https:\/\/www.shahnameh.pk\/#\" title=\"WhatsApp:+92 300 8462526\">WhatsApp:+92 300 8462526<\/a><\/p><p><a href=\"https:\/\/www.shahnameh.pk\/#\" title=\"Phone: (042) 32119999\">Phone: (042) 32119999<\/a><\/p><p><a href=\"https:\/\/www.shahnameh.pk\/#\" title=\"(042) 38329999\">(042) 38329999<\/a><\/p><p><a href=\"https:\/\/www.shahnameh.pk\/#\" title=\"042 32309999\">042 32309999<\/a><\/p><p><a href=\"https:\/\/www.shahnameh.pk\/#\" title=\"Email: help@shahnameh.pk\">Email: help@shahnameh.pk<\/a><\/p>",
+            "address_icon": "point_icon",
+            "show_address_icon": false,
+            "address_text": "",
+            "phone_icon": "message_icon",
+            "show_phone_icon": false,
+            "phone_text": "",
+            "email_icon": "envelope_icon",
+            "show_email_icon": false,
+            "email_text": "",
+            "icon_size": 16,
+            "icon_color": "",
+            "content_spacing": 1,
+            "mg_bottom": 0
+          }
+        },
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-2": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "11",
+            "heading": "INFORMATION",
+            "menu": "information-1",
+            "mg_bottom": 0
+          }
+        },
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-3": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "11",
+            "heading": "SHOPPING GUIDE",
+            "menu": "shopping-guide",
+            "mg_bottom": 0
+          }
+        },
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-1": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "11",
+            "heading": "ABOUT THE BRAND",
+            "menu": "about-the-brand",
+            "mg_bottom": 0
+          }
+        },
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1": {
+          "type": "newsletter",
+          "settings": {
+            "custom_width": "42",
+            "newsletter_style": "style1",
+            "newsletter_margin_bottom": 45,
+            "newsletter_padding_bottom": 0,
+            "heading": "Heading",
+            "subtext": "<p>Visit the <a href=\"https:\/\/new-ella-demo-11.myshopify.com\/?fts=0#\"><strong>Ella’s Journal<\/strong><\/a><\/p>",
+            "enable_arrow": true,
+            "mg_top_des": -58,
+            "mg_bottom_des": 28,
+            "newsletter_form_width": 270,
+            "input_text": "Your Email Address",
+            "input_color": "#999999",
+            "input_color_bg": "#ffffff",
+            "input_color_border": "#ffffff",
+            "button_text": "<svg class=\"icon\" viewbox=\"0 0 407.436 407.436\"><polygon points=\"112.814,0 91.566,21.178 273.512,203.718 91.566,386.258 112.814,407.436 315.869,203.718 \"><\/polygon>                     <\/svg>",
+            "button_width": 40,
+            "button_color": "#ffffff",
+            "button_color_border": "#f4ad57",
+            "button_color_bg": "#f4ad57",
+            "button_color_bg_gradient": "",
+            "button_color_hover": "#ffffff",
+            "button_color_border_hover": "#ffffff",
+            "button_color_bg_hover": "#232323",
+            "button_color_bg_gradient_hover": "",
+            "check_text": "",
+            "check_text_color": "#808080",
+            "check_text_fontsize": 14,
+            "check_input_color": "#ffffff",
+            "social_heading": "",
+            "show_social": true,
+            "enable_bg_social": false,
+            "social_margin_top": 35,
+            "social_icon_width": 20,
+            "social_icon_padding": 5,
+            "social_icon_border_width": 1,
+            "social_icon_margin_right": 15,
+            "social_color": "#ffffff",
+            "social_border_color": "rgba(0,0,0,0)",
+            "social_background_color": "rgba(0,0,0,0)",
+            "social_background_color_gradient": "",
+            "social_color_hover": "#282828",
+            "social_border_color_hover": "#ffffff",
+            "social_background_color_hover": "#ffffff",
+            "social_background_color_gradient_hover": "",
+            "social_box_hover_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "aec568d7-ff02-4c17-8be8-26273e0fa8f9",
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-2",
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-3",
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-1",
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1"
+      ],
+      "settings": {
+        "container": "1770",
+        "padding_full_width": 0,
+        "type_footer_heading": "font_1",
+        "type_footer_heading_font_size": 16,
+        "type_footer_heading_font_weight": "600",
+        "type_footer_heading_text_transform": "capitalize",
+        "type_footer_heading_line_height": 22,
+        "type_footer_heading_letter_spacing": ".02em",
+        "type_footer_link": "font_1",
+        "type_footer_link_font_size": 16,
+        "type_footer_link_font_weight": "400",
+        "type_footer_link_text_transform": "capitalize",
+        "type_footer_link_line_height": 30,
+        "type_footer_link_letter_spacing": ".02em",
+        "enable_border_footer_top": false,
+        "border_footer_top_color": "#282828",
+        "pdtop_footer_top": 95,
+        "pdbottom_footer_top": 50,
+        "footer_top_bg": "#445c60",
+        "footer_top_bg_gradient": "",
+        "show_footer_top_bg_img": false,
+        "footer_top_bg_position_x": "center",
+        "footer_top_bg_position_y": "center",
+        "footer_top_bg_repeat": "no-repeat",
+        "footer_top_bg_attachment": "fixed",
+        "footer_top_bg_size": "contain",
+        "footer_top_text_align": "left",
+        "footer_top_title_color": "#ffffff",
+        "footer_top_color_link": "#e0e3e3",
+        "footer_top_color_link_hover": "#ffffff"
+      }
+    },
     "573327a1-f0bc-4145-a60c-8b0b2949870c": {
       "type": "footer-01",
       "blocks": {
@@ -10,7 +154,6 @@
           "settings": {
             "custom_width": "16",
             "heading": "",
-            "logo": "shopify:\/\/shop_images\/belle-doll-logo-footer.png",
             "logo_margin_bottom": 28,
             "subtext": "",
             "address_icon": "point_icon",
@@ -194,6 +337,15 @@
             "show_payment_shopify_pay": false,
             "show_payment_sofort": false
           }
+        },
+        "f2e4cd34-c19d-4812-bf6f-45066ea5fd59": {
+          "type": "link_list",
+          "settings": {
+            "custom_width": "20",
+            "heading": "Quick links",
+            "menu": "footer",
+            "mg_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -202,7 +354,8 @@
         "sections--14871415914547__573327a1-f0bc-4145-a60c-8b0b2949870c-1677048180dc3ee656-0",
         "sections--14871415914547__573327a1-f0bc-4145-a60c-8b0b2949870c-1677048180dc3ee656-1",
         "sections--14871415914547__573327a1-f0bc-4145-a60c-8b0b2949870c-1677048180dc3ee656-3",
-        "ec8a5519-46bb-4023-ba05-f6d799979c76"
+        "ec8a5519-46bb-4023-ba05-f6d799979c76",
+        "f2e4cd34-c19d-4812-bf6f-45066ea5fd59"
       ],
       "settings": {
         "container": "1770",
@@ -239,6 +392,7 @@
     }
   },
   "order": [
+    "1deeaf81-bbd5-4cfd-8032-f997504e9b7d",
     "573327a1-f0bc-4145-a60c-8b0b2949870c"
   ]
 }
