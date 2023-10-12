@@ -54,7 +54,7 @@
           "type": "main_menu",
           "settings": {
             "menu": "shah_menu",
-            "menu_top_spacing": 38,
+            "menu_top_spacing": 30,
             "menu_bottom_spacing": 38,
             "grid_gap_menu_item": 15,
             "alignment": "center",
