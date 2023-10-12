@@ -8,7 +8,7 @@
         "aec568d7-ff02-4c17-8be8-26273e0fa8f9": {
           "type": "text",
           "settings": {
-            "custom_width": "11",
+            "custom_width": "20",
             "heading": "TALK TO US!",
             "logo_margin_bottom": 28,
             "logo_margin_top": 0,
@@ -31,7 +31,7 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-2": {
           "type": "link_list",
           "settings": {
-            "custom_width": "11",
+            "custom_width": "20",
             "heading": "INFORMATION",
             "menu": "information-1",
             "mg_bottom": 0
@@ -40,7 +40,7 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-3": {
           "type": "link_list",
           "settings": {
-            "custom_width": "11",
+            "custom_width": "20",
             "heading": "SHOPPING GUIDE",
             "menu": "shopping-guide",
             "mg_bottom": 0
@@ -49,7 +49,7 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-1": {
           "type": "link_list",
           "settings": {
-            "custom_width": "11",
+            "custom_width": "20",
             "heading": "ABOUT THE BRAND",
             "menu": "about-the-brand",
             "mg_bottom": 0
