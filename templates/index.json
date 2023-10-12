@@ -365,8 +365,8 @@
         "product_bg_gradient": "",
         "style_block_header": "style1",
         "pd_top_title": 30,
-        "product_block_title": "Featured products",
-        "enable_border_title": false,
+        "product_block_title": "SHAHBALEH WINTER'23 IS LIVE NOW",
+        "enable_border_title": true,
         "enable_border_title_style2": false,
         "fontsize_title": 24,
         "fontsize_title_mb": 18,
@@ -403,7 +403,7 @@
         "border_color_button_hover": "",
         "bg_color_button_hover": "",
         "bg_color_gradient_button_hover": "",
-        "product_block_collection": "belle-doll-featured-products",
+        "product_block_collection": "shahbaleh-winter23-is-live-now",
         "product_block_limit": 16,
         "grid_gap": 30,
         "pb_style": "style1",
@@ -547,6 +547,7 @@
       "block_order": [
         "template--14816615006259__ed119aa3-e90b-452e-b7c9-97e01100e457-1667451512d26af33d-0"
       ],
+      "disabled": true,
       "settings": {
         "container": "1770",
         "padding_full_width": 0,
@@ -1060,6 +1061,7 @@
     },
     "9b91507c-5186-4fde-a06a-d5f99b628415": {
       "type": "blog-posts-list",
+      "disabled": true,
       "settings": {
         "container": "1770",
         "padding_full_width": 0,
