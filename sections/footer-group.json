@@ -114,8 +114,7 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1"
       ],
       "custom_css": [
-        ".footer-block__subheading.rte h3 {color: white;}",
-        ".footer-block__item.footer-block__column.footer-block__newsletter.newsletter__style1.text-left.block__text_first {display: flex;}"
+        ".footer-block__subheading.rte h3 {color: white;}"
       ],
       "settings": {
         "container": "1770",
