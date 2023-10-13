@@ -395,10 +395,10 @@
         "padding_full_width": 0,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
-        "header_navigation_border_bottom": "box_shadow",
+        "header_navigation_border_bottom": "none",
         "header_navigation_border_bottom_color": "#000000",
         "sticky_header_type": "on_scroll",
-        "sticky_header_width": "full"
+        "sticky_header_width": "default"
       }
     }
   },
