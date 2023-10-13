@@ -1113,6 +1113,9 @@
         "c45b8aa6-66d1-43aa-a79b-1fc4ba8dc32c",
         "d1aaedae-f412-4245-aa86-7f3fc61c0c99"
       ],
+      "custom_css": [
+        "img.lazyloaded {margin-top: -0.4rem;}"
+      ],
       "settings": {
         "container": "container",
         "padding_full_width": 0,
