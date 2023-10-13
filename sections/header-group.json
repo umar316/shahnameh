@@ -35,7 +35,7 @@
         "enable_announcement": true,
         "layout": "slider",
         "enable_close": false,
-        "color_text": "#FFFFFF",
+        "color_text": "#ffffff",
         "bg_color_text": "#3c3c3c",
         "bg_color_text_gradient": "",
         "font_size_text": 16,
@@ -213,7 +213,7 @@
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
         "sticky_header_type": "on_scroll",
-        "sticky_header_width": "default"
+        "sticky_header_width": "full"
       }
     },
     "header-mobile": {
