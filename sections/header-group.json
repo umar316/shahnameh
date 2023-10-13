@@ -274,88 +274,11 @@
         "padding_top": 5,
         "padding_bottom": 12
       }
-    },
-    "f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1": {
-      "type": "header-advanced",
-      "blocks": {
-        "sections--16122440155286__f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1-group_1-1": {
-          "type": "group_1",
-          "settings": {
-            "container": "1170",
-            "padding_full_width": 0,
-            "background": "#f7f8fa",
-            "gradient": "",
-            "icon_1": "1",
-            "custom_text_1": "<p>Toll-free: <a href=\"tel:091%20234-567\">(091) 123-4567<\/a><\/p>",
-            "text_size_1": 12,
-            "color_1": "#06142e",
-            "icon_2": "1",
-            "custom_text_2": "<p><a href=\"tel:09120234-567\" target=\"_blank\" title=\"mailto:email@domain.com\">email@domain.com<\/a><\/p>",
-            "text_size_2": 12,
-            "color_2": "#06142e",
-            "custom_text_3": "<p><strong>Free Shipping Over $99*<\/strong><\/p>",
-            "text_size_3": 12,
-            "color_3": "#06142e",
-            "custom_text_4": "<ul><li><a href=\"\/pages\/faqs\" title=\"\/pages\/faqs\">Theme FAQs<\/a><\/li><li><a href=\"\/pages\/contact-us-1\" title=\"\/pages\/contact-us-1\">Need Help?<\/a><\/li><\/ul>",
-            "text_size_4": 12,
-            "color_4": "#06142e",
-            "show_language_currency": true,
-            "language_currency_color": "#06142e",
-            "padding_top": 5,
-            "padding_bottom": 5
-          }
-        },
-        "sections--16122440155286__f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1-group_2-1": {
-          "type": "group_2",
-          "settings": {
-            "container": "1170",
-            "padding_full_width": 0,
-            "background": "#ffffff",
-            "gradient": "",
-            "show_logo": true,
-            "logo_position": "right",
-            "logo_width": 145,
-            "logo_text": "",
-            "logo_font_size": 30,
-            "logo_font_weight": "900",
-            "logo_text_transform": "uppercase",
-            "logo_color": "#06142e",
-            "show_search": true,
-            "show_box_shadow": true,
-            "search_color": "#767676",
-            "bg_search_color": "#F7F8FA",
-            "search_icon_color": "#06142e",
-            "search_icon_bg": "#f7c34a",
-            "search_icon_gradient": "",
-            "search_border_radius": 5,
-            "show_cart": true,
-            "cart_color": "#06142e",
-            "cart_bg_item": "#f42b23",
-            "cart_color_item": "#ffffff",
-            "cart_item_font_size": 12,
-            "show_wishlist": true,
-            "wishlist_color": "#06142e",
-            "show_account": true,
-            "customer_color": "#06142e",
-            "padding_top": 19,
-            "padding_bottom": 19
-          }
-        }
-      },
-      "block_order": [
-        "sections--16122440155286__f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1-group_1-1",
-        "sections--16122440155286__f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1-group_2-1"
-      ],
-      "settings": {
-        "layout": "style1",
-        "border_top": ""
-      }
     }
   },
   "order": [
     "announcement-bar",
     "0bbca065-1adb-4f31-9571-358055671f87",
-    "header-mobile",
-    "f9c22ad2-9de7-4b51-bd4b-0e1c5228c7c1"
+    "header-mobile"
   ]
 }
