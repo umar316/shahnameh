@@ -283,7 +283,8 @@
           "type": "logo",
           "settings": {
             "logo_position": "sticky_menu",
-            "logo_width": 90,
+            "logo": "shopify:\/\/shop_images\/logo.webp",
+            "logo_width": 165,
             "logo_width_fixed": 55,
             "logo_text": "",
             "logo_font_size": 20,
@@ -332,7 +333,7 @@
             "hot_label_color": "#FFFFFF",
             "hot_label_bg": "#FFF993",
             "hot_label_bg_gradient": "",
-            "vertical_menu_layout": "style_1",
+            "vertical_menu_layout": "none",
             "vertical_menu": "main-menu",
             "title_categories": "Categories",
             "title_categories_font_size": 12,
