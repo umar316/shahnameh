@@ -1121,7 +1121,7 @@
         "mg_bottom_desktop": 20,
         "mg_bottom_tablet": 20,
         "mg_bottom_mobile": 5,
-        "policies_bg": "#ffffff",
+        "policies_bg": "#FFFFFF",
         "policies_bg_gradient": "",
         "border_item": "style_1",
         "align_items": "center",
