@@ -1055,6 +1055,7 @@
           "type": "Text",
           "settings": {
             "icon_type": "image",
+            "image": "shopify:\/\/shop_images\/icons8-sync-30.png",
             "icon": "",
             "icon_width": 30,
             "icon_height": 30,
