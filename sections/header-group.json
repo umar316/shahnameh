@@ -284,7 +284,7 @@
           "settings": {
             "logo_position": "main_menu",
             "logo": "shopify:\/\/shop_images\/logo.webp",
-            "logo_width": 190,
+            "logo_width": 140,
             "logo_width_fixed": 55,
             "logo_text": "",
             "logo_font_size": 20,
