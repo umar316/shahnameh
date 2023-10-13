@@ -1073,6 +1073,7 @@
           "type": "Text",
           "settings": {
             "icon_type": "image",
+            "image": "shopify:\/\/shop_images\/icons8-shipping-24.png",
             "icon": "",
             "icon_width": 30,
             "icon_height": 30,
