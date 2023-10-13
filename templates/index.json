@@ -1059,13 +1059,13 @@
             "icon_width": 30,
             "icon_height": 30,
             "icon_mg_right": 20,
-            "text": "Free Shipping",
+            "text": "Track Your Order",
             "font_size_text": 20,
             "font_size_text_mb": 18,
             "mg_bottom_text": 0,
             "font_weight_text": "500",
             "font_style_text": "normal",
-            "description": "<p style=\"font-size: 14px; color: #787878; margin-top: 5px; margin-bottom: 0;\">Terms & conditions applied*<\/p>",
+            "description": "",
             "link": "#"
           }
         },
@@ -1077,13 +1077,13 @@
             "icon_width": 30,
             "icon_height": 30,
             "icon_mg_right": 20,
-            "text": "Free Returns",
+            "text": "Shipping all over Pakistan",
             "font_size_text": 20,
             "font_size_text_mb": 18,
             "mg_bottom_text": 0,
             "font_weight_text": "500",
             "font_style_text": "normal",
-            "description": "<p style=\"font-size: 14px; color: #787878; margin-top: 5px; margin-bottom: 0;\">Learn more<\/p>",
+            "description": "",
             "link": "#"
           }
         },
@@ -1095,31 +1095,13 @@
             "icon_width": 30,
             "icon_height": 30,
             "icon_mg_right": 20,
-            "text": "Secure Shopping",
+            "text": "14 Days Exchange Policy",
             "font_size_text": 20,
             "font_size_text_mb": 18,
             "mg_bottom_text": 0,
             "font_weight_text": "500",
             "font_style_text": "normal",
-            "description": "<p style=\"font-size: 14px; color: #787878; margin-top: 5px; margin-bottom: 0; \">Find out more<\/p>",
-            "link": "#"
-          }
-        },
-        "ff2a651c-3412-42f8-ba70-f262f0cc2369": {
-          "type": "Text",
-          "settings": {
-            "icon_type": "image",
-            "icon": "",
-            "icon_width": 30,
-            "icon_height": 30,
-            "icon_mg_right": 20,
-            "text": "Student Discount",
-            "font_size_text": 20,
-            "font_size_text_mb": 18,
-            "mg_bottom_text": 0,
-            "font_weight_text": "500",
-            "font_style_text": "normal",
-            "description": "<p style=\"font-size: 14px; color: #787878; margin-top: 5px; margin-bottom: 0;\">Promotion automatically applied*<\/p>",
+            "description": "",
             "link": "#"
           }
         }
@@ -1127,8 +1109,7 @@
       "block_order": [
         "fd5000ae-5426-4b4b-a6e4-60c7caac7d6b",
         "c45b8aa6-66d1-43aa-a79b-1fc4ba8dc32c",
-        "d1aaedae-f412-4245-aa86-7f3fc61c0c99",
-        "ff2a651c-3412-42f8-ba70-f262f0cc2369"
+        "d1aaedae-f412-4245-aa86-7f3fc61c0c99"
       ],
       "settings": {
         "container": "container",
@@ -1138,7 +1119,7 @@
         "mg_top_tablet": 5,
         "mg_top_mobile": 5,
         "mg_bottom_desktop": 25,
-        "mg_bottom_tablet": 15,
+        "mg_bottom_tablet": 25,
         "mg_bottom_mobile": 5,
         "policies_bg": "#ffffff",
         "policies_bg_gradient": "",
