@@ -960,12 +960,6 @@
     "9cccce0e-6d05-4032-8f9e-d45edc971b91": {
       "type": "instagram-grid",
       "blocks": {
-        "7b25c8d2-5024-4622-b98a-e1e5f52d8ea3": {
-          "type": "instagram",
-          "settings": {
-            "link": ""
-          }
-        },
         "c57f64c0-daec-4691-9e24-9c4f59303f15": {
           "type": "instagram",
           "settings": {
@@ -998,7 +992,6 @@
         }
       },
       "block_order": [
-        "7b25c8d2-5024-4622-b98a-e1e5f52d8ea3",
         "c57f64c0-daec-4691-9e24-9c4f59303f15",
         "23bba3c1-b81c-4501-a538-c28f7d88b6fa",
         "666d45eb-05a8-446b-ae3b-5c4aeb07b464",
@@ -1127,7 +1120,7 @@
         "mg_bottom_desktop": 35,
         "mg_bottom_tablet": 30,
         "mg_bottom_mobile": 5,
-        "policies_bg": "#FFFFFF",
+        "policies_bg": "#ffffff",
         "policies_bg_gradient": "",
         "border_item": "style_1",
         "align_items": "center",
