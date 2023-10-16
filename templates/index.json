@@ -516,7 +516,7 @@
     "6a37778d-885c-4c11-b54a-1cb4168a8ccc": {
       "type": "product-block",
       "settings": {
-        "container": "container",
+        "container": "fullwidth",
         "padding_full_width": 0,
         "disable_padding_content": false,
         "enable_border_top": false,
