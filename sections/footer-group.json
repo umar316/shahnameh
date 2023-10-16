@@ -98,9 +98,9 @@
             "social_border_color": "rgba(0,0,0,0)",
             "social_background_color": "rgba(0,0,0,0)",
             "social_background_color_gradient": "",
-            "social_color_hover": "#f8f8f8",
+            "social_color_hover": "#FFFFFF",
             "social_border_color_hover": "#ffffff",
-            "social_background_color_hover": "#ffffff",
+            "social_background_color_hover": "#727272",
             "social_background_color_gradient_hover": "",
             "social_box_hover_color": "#ffffff"
           }
