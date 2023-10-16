@@ -256,7 +256,7 @@
     "436854e4-4986-4254-8847-f3a9a899c638": {
       "type": "product-block",
       "settings": {
-        "container": "fullwidth",
+        "container": "1770",
         "padding_full_width": 0,
         "disable_padding_content": false,
         "enable_border_top": false,
@@ -516,7 +516,7 @@
     "6a37778d-885c-4c11-b54a-1cb4168a8ccc": {
       "type": "product-block",
       "settings": {
-        "container": "fullwidth",
+        "container": "1770",
         "padding_full_width": 0,
         "disable_padding_content": false,
         "enable_border_top": false,
