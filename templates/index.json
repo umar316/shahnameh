@@ -256,7 +256,7 @@
     "436854e4-4986-4254-8847-f3a9a899c638": {
       "type": "product-block",
       "settings": {
-        "container": "container",
+        "container": "fullwidth",
         "padding_full_width": 0,
         "disable_padding_content": false,
         "enable_border_top": false,
