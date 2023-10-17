@@ -960,12 +960,6 @@
     "9cccce0e-6d05-4032-8f9e-d45edc971b91": {
       "type": "instagram-grid",
       "blocks": {
-        "c57f64c0-daec-4691-9e24-9c4f59303f15": {
-          "type": "instagram",
-          "settings": {
-            "link": ""
-          }
-        },
         "23bba3c1-b81c-4501-a538-c28f7d88b6fa": {
           "type": "instagram",
           "settings": {
@@ -992,7 +986,6 @@
         }
       },
       "block_order": [
-        "c57f64c0-daec-4691-9e24-9c4f59303f15",
         "23bba3c1-b81c-4501-a538-c28f7d88b6fa",
         "666d45eb-05a8-446b-ae3b-5c4aeb07b464",
         "aa741112-a701-453a-9b01-08b0569673a7",
