@@ -2,6 +2,7 @@
   "sections": {
     "717ee5ef-b0e6-40c8-9f6f-bfe058ba19f0": {
       "type": "google-map",
+      "disabled": true,
       "settings": {
         "show_custom_map": true,
         "container": "fullwidth",
