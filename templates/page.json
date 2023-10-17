@@ -32,7 +32,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-
+        ".powerby-txt {display: none !important;}"
       ],
       "settings": {
       }

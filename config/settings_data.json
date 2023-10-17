@@ -727,7 +727,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".powerby-txt {display: none;}"
+      ".powerby-txt {display: none !important;}"
     ]
   }
 }
