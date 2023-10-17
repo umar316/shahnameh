@@ -33,10 +33,28 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "169752324741f98526": {
+      "type": "apps",
+      "blocks": {
+        "a9890421-75a6-4f7a-a21b-8720a3ae5d25": {
+          "type": "shopify:\/\/apps\/s-contact-form-contact-us\/blocks\/block-app\/cceef8dd-a4f1-4344-962d-06bf0022ec0d",
+          "settings": {
+            "ify_contactform_short_code": ""
+          }
+        }
+      },
+      "block_order": [
+        "a9890421-75a6-4f7a-a21b-8720a3ae5d25"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
     "717ee5ef-b0e6-40c8-9f6f-bfe058ba19f0",
-    "main"
+    "main",
+    "169752324741f98526"
   ]
 }
