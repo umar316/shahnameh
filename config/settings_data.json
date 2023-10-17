@@ -724,5 +724,10 @@
     "content_for_index": [
 
     ]
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".powerby-txt {display: none;}"
+    ]
   }
 }
