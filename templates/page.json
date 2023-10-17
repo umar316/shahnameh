@@ -1,21 +1,16 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "717ee5ef-b0e6-40c8-9f6f-bfe058ba19f0": {
       "type": "google-map",
       "settings": {
         "show_custom_map": true,
         "container": "fullwidth",
-        "mg_top_desktop": 0,
-        "mg_top_tablet": 0,
-        "mg_top_mobile": 0,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50,
+        "mg_top_desktop": 25,
+        "mg_top_tablet": 20,
+        "mg_top_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
         "block_title": "",
         "block_text": "",
         "block_align": "center",
@@ -33,10 +28,15 @@
         "btn_link": "",
         "block_content": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m8!1m3!1d28974.60753274099!2d67.031152!3d24.801413!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33d091b855fab%3A0x8fded52b83fb18a7!2sShahnameh!5e0!3m2!1sen!2sus!4v1697522309423!5m2!1sen!2sus\" width=\"800\" height=\"600\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>"
       }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
     }
   },
   "order": [
-    "main",
-    "717ee5ef-b0e6-40c8-9f6f-bfe058ba19f0"
+    "717ee5ef-b0e6-40c8-9f6f-bfe058ba19f0",
+    "main"
   ]
 }
