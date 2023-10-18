@@ -33,8 +33,8 @@
           "settings": {
             "spacing_top": 0,
             "spacing_bottom": 14,
-            "show_review": true,
-            "show_sold_in": true,
+            "show_review": false,
+            "show_sold_in": false,
             "sold_in_number": "3,5,6,7,8,10,12,15",
             "sold_in_hours": "10,15,16,17,18,20,25,35",
             "color_text_sold_in": "#e95144"
@@ -46,14 +46,14 @@
             "word_number": "17",
             "fontsize_text": 16,
             "color_text": "#3c3c3c",
-            "spacing_top": 0,
+            "spacing_top": 14,
             "spacing_bottom": 12
           }
         },
         "4e59f24a-8859-4579-a80a-d70e6f1bf66b": {
           "type": "info",
           "settings": {
-            "show_vendor": true,
+            "show_vendor": false,
             "show_sku": true,
             "show_availability": true,
             "show_product_type": true,
@@ -76,13 +76,14 @@
         "5d8b9ff9-6a1c-4850-a6c2-e6cdbb8b7f7c": {
           "type": "hot_stock",
           "settings": {
-            "hot_stock_style": "2",
+            "hot_stock_style": "1",
             "spacing_top": 0,
             "spacing_bottom": 8
           }
         },
         "bd3a641e-98d0-4da1-ab57-d5e4b0391995": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "spacing_top": 0,
             "spacing_bottom": 20
@@ -133,10 +134,10 @@
         "f1b31d90-1e43-4948-9fe3-97ba43f6fb34": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "spacing_top": 0,
             "spacing_bottom": 15,
-            "atc_animation": "horizontal-shaking",
+            "atc_animation": "none",
             "atc_color": "#ffffff",
             "atc_border_color": "#232323",
             "atc_bg_color": "#232323",
@@ -157,6 +158,7 @@
         },
         "683f2b15-db3b-4f63-8d0f-e688cc678581": {
           "type": "customer_viewing",
+          "disabled": true,
           "settings": {
             "customer_viewing_number": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
             "customer_viewing_time": 5,
@@ -195,10 +197,10 @@
           "disabled": true,
           "settings": {
             "open_tab_mobile": false,
-            "title": "Additional Information",
+            "title": "Care Instructions",
             "type": "all",
-            "content": "<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis. Pellentesque diam dolor cosmopolis etos lobortis.<\/p>\n<dl>\n<dt>Comodous:<\/dt>\n<dd>Comodous in tempor ullamcorper miaculis<\/dd>\n<\/dl>\n<dl>\n<dt>Mattis laoreet:<\/dt>\n<dd>Pellentesque vitae neque mollis urna mattis laoreet.<\/dd>\n<\/dl>\n<dl>\n<dt>Divamus de ametos:<\/dt>\n<dd>Divamus sit amet purus justo.<\/dd>\n<\/dl>\n<dl>\n<dt>Molestie:<\/dt>\n<dd>Proin molestie egestas orci ac suscipit risus posuere loremous<\/dd>\n<\/dl>",
-            "enable_btn_show_more": false,
+            "content": "Wash light and bright colors separately.\nMachine or hand wash upto 30°C\/86F.\nDo not bleach.\nDo not tumble dry.\nDelicate spin cycle on gentler\/embellished garments.\nDo not dry in direct sunlight.",
+            "enable_btn_show_more": true,
             "maximum_des_to_show": 300,
             "product_custom_source": "dynamic",
             "product_tab_key_metafield": ""
@@ -282,14 +284,13 @@
         },
         "36addb13-cd73-4713-a15c-7d846c4724e7": {
           "type": "custom_information",
-          "disabled": true,
           "settings": {
             "icon": "<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fal\" data-icon=\"exclamation-triangle\" role=\"img\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 576 512\"><path fill=\"currentColor\" d=\"M270.2 160h35.5c3.4 0 6.1 2.8 6 6.2l-7.5 196c-.1 3.2-2.8 5.8-6 5.8h-20.5c-3.2 0-5.9-2.5-6-5.8l-7.5-196c-.1-3.4 2.6-6.2 6-6.2zM288 388c-15.5 0-28 12.5-28 28s12.5 28 28 28 28-12.5 28-28-12.5-28-28-28zm281.5 52L329.6 24c-18.4-32-64.7-32-83.2 0L6.5 440c-18.4 31.9 4.6 72 41.6 72H528c36.8 0 60-40 41.5-72zM528 480H48c-12.3 0-20-13.3-13.9-24l240-416c6.1-10.6 21.6-10.7 27.7 0l240 416c6.2 10.6-1.5 24-13.8 24z\"><\/path><\/svg>",
-            "text": "Covid-19 Shipping Delay Notice",
+            "text": "Care Instructions",
             "color_title": "#232323",
             "text_description": "",
             "color_des": "#999999",
-            "content_popup": "<div class=\"halo-text-format\">\n\t\t\t\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\n\t\t\t\t\t\t\t<\/div>",
+            "content_popup": "<div class=\"halo-text-format\">\n\t\t\t\t\t\t\t\t<p>Wash light and bright colors separately.\nMachine or hand wash upto 30°C\/86F.\nDo not bleach.\nDo not tumble dry.\nDelicate spin cycle on gentler\/embellished garments.\nDo not dry in direct sunlight..<\/p>\n\t\t\t\t\t\t\t<\/div>",
             "fontsize_text": 12,
             "spacing_top": 0,
             "spacing_bottom": 0
