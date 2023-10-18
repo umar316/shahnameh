@@ -290,7 +290,7 @@
             "color_title": "#232323",
             "text_description": "",
             "color_des": "#999999",
-            "content_popup": "<div class=\"halo-text-format\">\n\t\t\t\t\t\t\t\t<p>Wash light and bright colors separately.\nMachine or hand wash upto 30°C\/86F.\nDo not bleach.\nDo not tumble dry.\nDelicate spin cycle on gentler\/embellished garments.\nDo not dry in direct sunlight..<\/p>\n\t\t\t\t\t\t\t<\/div>",
+            "content_popup": "<div class=\"halo-text-format\">\n\t\t\t\t\t\t\t\t<p>Wash light and bright colors separately.<\/p>\n<p>Machine or hand wash upto 30°C\/86F.<\/p>\n<p>Do not bleach.<\/p>\n<p>Do not tumble dry.<\/p>\n<p>Delicate spin cycle on gentler\/embellished garments.<\/p>\n<p>Do not dry in direct sunlight..<\/p>\n\t\t\t\t\t\t\t<\/div>",
             "fontsize_text": 12,
             "spacing_top": 0,
             "spacing_bottom": 0
