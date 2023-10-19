@@ -780,6 +780,9 @@
         "template--16122442055830__b170b54d-20a9-4377-ad4e-f36e38180cf5-featured_collection-2",
         "template--16122442055830__b170b54d-20a9-4377-ad4e-f36e38180cf5-featured_collection-3"
       ],
+      "custom_css": [
+        "img.ls-is-cached.lazyloaded {padding-right: 2rem;}"
+      ],
       "settings": {
         "container": "1770",
         "padding_full_width": 0,
