@@ -625,7 +625,7 @@
       "settings": {
         "container": "1770",
         "padding_full_width": 0,
-        "mg_top_desktop": 70,
+        "mg_top_desktop": 25,
         "mg_top_tablet": 25,
         "mg_top_mobile": 15,
         "mg_bottom_desktop": 50,
@@ -960,12 +960,6 @@
     "9cccce0e-6d05-4032-8f9e-d45edc971b91": {
       "type": "instagram-grid",
       "blocks": {
-        "666d45eb-05a8-446b-ae3b-5c4aeb07b464": {
-          "type": "instagram",
-          "settings": {
-            "link": ""
-          }
-        },
         "aa741112-a701-453a-9b01-08b0569673a7": {
           "type": "instagram",
           "settings": {
@@ -980,7 +974,6 @@
         }
       },
       "block_order": [
-        "666d45eb-05a8-446b-ae3b-5c4aeb07b464",
         "aa741112-a701-453a-9b01-08b0569673a7",
         "d654e04d-4c28-4c28-a74f-a7b78dab346b"
       ],
