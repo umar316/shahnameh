@@ -711,11 +711,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
@@ -736,11 +736,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
@@ -761,11 +761,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
@@ -1076,12 +1076,6 @@
     "9cccce0e-6d05-4032-8f9e-d45edc971b91": {
       "type": "instagram-grid",
       "blocks": {
-        "aa741112-a701-453a-9b01-08b0569673a7": {
-          "type": "instagram",
-          "settings": {
-            "link": ""
-          }
-        },
         "d654e04d-4c28-4c28-a74f-a7b78dab346b": {
           "type": "instagram",
           "settings": {
@@ -1090,7 +1084,6 @@
         }
       },
       "block_order": [
-        "aa741112-a701-453a-9b01-08b0569673a7",
         "d654e04d-4c28-4c28-a74f-a7b78dab346b"
       ],
       "disabled": true,
