@@ -704,7 +704,7 @@
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/11.webp",
-            "content_align": "center",
+            "content_align": "left",
             "title": "",
             "color_title": "#232323",
             "fontsize_title": 20,
@@ -754,7 +754,7 @@
           "settings": {
             "collection": "",
             "image": "shopify:\/\/shop_images\/13.webp",
-            "content_align": "center",
+            "content_align": "right",
             "title": "",
             "color_title": "#232323",
             "fontsize_title": 20,
