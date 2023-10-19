@@ -724,6 +724,14 @@
           "lv_title_text_transform": "capitalize",
           "show_nav_all": true
         }
+      },
+      "floating-whatsapp": {
+        "type": "floating-whatsapp",
+        "settings": {
+          "show_whatsapp": true,
+          "whatsapp_number": "+92 300 8462526",
+          "whatsapp_msg": "SHAHNAMEH"
+        }
       }
     },
     "content_for_index": [
