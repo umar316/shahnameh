@@ -276,6 +276,78 @@
         "padding_bottom": 12
       }
     },
+    "9ed95e8a-f9c5-4844-ba7c-2a3475582cdf": {
+      "type": "header-classic",
+      "blocks": {
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-logo-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/logo.webp",
+            "logo_width": 90,
+            "logo_text": "",
+            "logo_font_size": 30,
+            "logo_font_weight": "900",
+            "logo_text_transform": "uppercase",
+            "logo_color": "#232323",
+            "spacing": 5
+          }
+        },
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-service-1": {
+          "type": "service",
+          "disabled": true,
+          "settings": {
+            "customer_service_text": "<p>Customer Service 091 234-ELLA<\/p>",
+            "text_color": "#323232",
+            "show_language_currency": true,
+            "language_currency_color": "#323232",
+            "show_search": true,
+            "search_color": "#323232",
+            "bg_search_color": "#fafafa",
+            "search_border_color": "#e7e7e7",
+            "search_icon_color": "#323232",
+            "spacing": 14
+          }
+        },
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "free_shipping_text": "<p>Free shipping on All Orders. No Minimum Purchase<\/p>",
+            "text_color": "#232323",
+            "spacing": 15
+          }
+        },
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-group-1": {
+          "type": "group",
+          "disabled": true,
+          "settings": {
+            "show_cart": true,
+            "cart_color": "#323232",
+            "cart_color_item": "#323232",
+            "cart_bg_item": "#FFE5E8",
+            "show_wishlist": true,
+            "wishlist_color": "#323232",
+            "show_customer": true,
+            "customer_color": "#323232",
+            "spacing": 0
+          }
+        }
+      },
+      "block_order": [
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-logo-1",
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-service-1",
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-text-1",
+        "sections--16122440155286__9ed95e8a-f9c5-4844-ba7c-2a3475582cdf-group-1"
+      ],
+      "settings": {
+        "container": "1170",
+        "padding_full_width": 0,
+        "background": "#ffffff",
+        "gradient": "",
+        "padding_top": 15,
+        "padding_bottom": 16
+      }
+    },
     "229a67e8-9fda-4c89-9ba3-6273cb8004ea": {
       "type": "header-navigation-vertical-menu",
       "blocks": {
@@ -400,47 +472,13 @@
         "sticky_header_type": "on_scroll",
         "sticky_header_width": "default"
       }
-    },
-    "499bdf3e-f992-4df2-b92f-964c92af8c55": {
-      "type": "header-simple",
-      "blocks": {
-        "sections--16122440155286__499bdf3e-f992-4df2-b92f-964c92af8c55-group_2-1": {
-          "type": "group_2",
-          "settings": {
-            "layout": "row",
-            "bg_color": "#fff",
-            "bg_gradient": "",
-            "logo": "shopify:\/\/shop_images\/logo.webp",
-            "logo_width": 90,
-            "logo_text": "",
-            "logo_font_size": 30,
-            "logo_font_weight": "900",
-            "logo_text_transform": "uppercase",
-            "logo_color": "#232323",
-            "customer_text_03": "",
-            "customer_text_03_color": "#ba7a2d",
-            "customer_text_03_border_color": "#ba7a2d",
-            "show_customer": true,
-            "customer_color": "#232323",
-            "padding_top": 19,
-            "padding_bottom": 20
-          }
-        }
-      },
-      "block_order": [
-        "sections--16122440155286__499bdf3e-f992-4df2-b92f-964c92af8c55-group_2-1"
-      ],
-      "settings": {
-        "container": "1170",
-        "padding_full_width": 0
-      }
     }
   },
   "order": [
     "announcement-bar",
     "0bbca065-1adb-4f31-9571-358055671f87",
     "header-mobile",
-    "229a67e8-9fda-4c89-9ba3-6273cb8004ea",
-    "499bdf3e-f992-4df2-b92f-964c92af8c55"
+    "9ed95e8a-f9c5-4844-ba7c-2a3475582cdf",
+    "229a67e8-9fda-4c89-9ba3-6273cb8004ea"
   ]
 }
