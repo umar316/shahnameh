@@ -207,6 +207,7 @@
         "17a5bd50-1afc-48fc-b3c9-a45a436a72c7",
         "883375a2-e11f-46b2-a3d2-b0a7912f296d"
       ],
+      "disabled": true,
       "settings": {
         "container": "full",
         "padding_full_width": 0,
@@ -460,7 +461,7 @@
         "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-header_icons-1"
       ],
       "custom_css": [
-        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}"
+
       ],
       "settings": {
         "container": "1370",
