@@ -732,12 +732,6 @@
           "whatsapp_number": "+92 300 8462526",
           "whatsapp_msg": "SHAHNAMEH"
         }
-      },
-      "back-to-top": {
-        "type": "back-to-top",
-        "settings": {
-          "back_to_top": false
-        }
       }
     },
     "content_for_index": [
