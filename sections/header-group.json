@@ -475,7 +475,7 @@
             "menu_top_spacing": 14,
             "menu_bottom_spacing": 14,
             "grid_gap_menu_item": 12,
-            "alignment": "center",
+            "alignment": "right",
             "bg_mega_menu": "#ffffff",
             "bg_mega_menu_gradient": "",
             "lv_1_color": "#000000",
