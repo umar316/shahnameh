@@ -184,7 +184,6 @@
       "blocks": {
         "sections--14682829619277__0bbca065-1adb-4f31-9571-358055671f87-16808750661fcf66bb-1": {
           "type": "main_menu",
-          "disabled": true,
           "settings": {
             "menu": "shah_menu",
             "menu_top_spacing": 30,
