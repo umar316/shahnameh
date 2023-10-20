@@ -456,10 +456,8 @@
       "blocks": {
         "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-logo-1": {
           "type": "logo",
-          "disabled": true,
           "settings": {
             "logo_position": "main_menu",
-            "logo": "shopify:\/\/shop_images\/logo.webp",
             "logo_width": 140,
             "logo_width_fixed": 55,
             "logo_text": "",
