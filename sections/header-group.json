@@ -185,7 +185,7 @@
         "sections--14682829619277__0bbca065-1adb-4f31-9571-358055671f87-16808750661fcf66bb-1": {
           "type": "main_menu",
           "settings": {
-            "menu": "shah_menu",
+            "menu": "",
             "menu_top_spacing": 30,
             "menu_bottom_spacing": 38,
             "grid_gap_menu_item": 15,
@@ -344,7 +344,6 @@
         "17a5bd50-1afc-48fc-b3c9-a45a436a72c7",
         "883375a2-e11f-46b2-a3d2-b0a7912f296d"
       ],
-      "disabled": true,
       "settings": {
         "container": "full",
         "padding_full_width": 0,
