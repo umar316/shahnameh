@@ -461,7 +461,7 @@
         "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-header_icons-1"
       ],
       "custom_css": [
-
+        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}"
       ],
       "settings": {
         "container": "1370",
