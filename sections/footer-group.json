@@ -108,15 +108,15 @@
         "7b8885ec-ba83-4216-ba9a-2c62e70d5b89": {
           "type": "footer_bottom",
           "settings": {
-            "pdtop_footer_bottom": 50,
-            "pdbottom_footer_bottom": 50,
+            "pdtop_footer_bottom": 0,
+            "pdbottom_footer_bottom": 0,
             "border_top": true,
             "footer_bottom_color": "#808080",
             "border_top_color": "#282828",
             "footer_bottom_bg": "#141414",
             "footer_bottom_bg_gradient": "",
             "show_copyright": true,
-            "enable_layout_grid": true,
+            "enable_layout_grid": false,
             "copyright_content": "<p>© COPYRIGHT SHAHNAMEH. ALL RIGHTS RESERVED.<br\/>                        <\/p>",
             "copyright_content_color": "",
             "show_payment": true,
