@@ -344,7 +344,7 @@
         "883375a2-e11f-46b2-a3d2-b0a7912f296d"
       ],
       "custom_css": [
-        ".header-navigation-wrapper {padding-bottom: 1.5rem; border-bottom: 1px solid #d1d1d1;}"
+        ".header-navigation.header-nav-full-elements {padding-bottom: 1.5rem; border-bottom: 1px solid #d1d1d1;}"
       ],
       "settings": {
         "container": "full",
