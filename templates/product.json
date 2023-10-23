@@ -127,7 +127,7 @@
             "size_chart_image_type": "jpg",
             "show_compare_color": true,
             "show_compare_color_drop_drap": true,
-            "compare_layout": "2"
+            "compare_layout": "1"
           }
         },
         "f1b31d90-1e43-4948-9fe3-97ba43f6fb34": {
@@ -307,6 +307,19 @@
             "spacing_top": 30,
             "spacing_bottom": 0
           }
+        },
+        "4e5f962a-1ead-451a-9f62-c6a74b230659": {
+          "type": "custom",
+          "settings": {
+            "open_tab_mobile": false,
+            "title": "Custom Tab",
+            "type": "metafield",
+            "content": "",
+            "enable_btn_show_more": true,
+            "maximum_des_to_show": 300,
+            "product_custom_source": "key_text",
+            "product_tab_key_metafield": ""
+          }
         }
       },
       "block_order": [
@@ -335,7 +348,8 @@
         "36addb13-cd73-4713-a15c-7d846c4724e7",
         "058d88b7-6cce-4aae-a5c4-b8193bbdfa7f",
         "a86220cf-8641-4e06-87d3-b5ffa195501b",
-        "1180d91b-75f9-49d9-a9db-2b9f5a49408d"
+        "1180d91b-75f9-49d9-a9db-2b9f5a49408d",
+        "4e5f962a-1ead-451a-9f62-c6a74b230659"
       ],
       "settings": {
         "container": "default",
