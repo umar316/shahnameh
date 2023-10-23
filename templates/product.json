@@ -124,7 +124,7 @@
             "spacing_bottom": 22,
             "show_size_chart": true,
             "size_chart_type": "metafield",
-            "size_chart_image_type": "jpg",
+            "size_chart_image_type": "png",
             "show_compare_color": true,
             "show_compare_color_drop_drap": true,
             "compare_layout": "1"
@@ -197,9 +197,9 @@
           "settings": {
             "open_tab_mobile": false,
             "title": "Care Instructions",
-            "type": "all",
+            "type": "metafield",
             "content": "Wash light and bright colors separately.\nMachine or hand wash upto 30°C\/86F.\nDo not bleach.\nDo not tumble dry.\nDelicate spin cycle on gentler\/embellished garments.\nDo not dry in direct sunlight.",
-            "enable_btn_show_more": true,
+            "enable_btn_show_more": false,
             "maximum_des_to_show": 300,
             "product_custom_source": "dynamic",
             "product_tab_key_metafield": ""
