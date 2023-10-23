@@ -98,11 +98,53 @@
             "social_border_color": "rgba(0,0,0,0)",
             "social_background_color": "rgba(0,0,0,0)",
             "social_background_color_gradient": "",
-            "social_color_hover": "#FFFFFF",
+            "social_color_hover": "#ffffff",
             "social_border_color_hover": "#ffffff",
             "social_background_color_hover": "#727272",
             "social_background_color_gradient_hover": "",
             "social_box_hover_color": "#ffffff"
+          }
+        },
+        "7b8885ec-ba83-4216-ba9a-2c62e70d5b89": {
+          "type": "footer_bottom",
+          "settings": {
+            "pdtop_footer_bottom": 50,
+            "pdbottom_footer_bottom": 50,
+            "border_top": true,
+            "footer_bottom_color": "#808080",
+            "border_top_color": "#282828",
+            "footer_bottom_bg": "#141414",
+            "footer_bottom_bg_gradient": "",
+            "show_copyright": true,
+            "enable_layout_grid": true,
+            "copyright_content": "<p>© COPYRIGHT SHAHNAMEH. ALL RIGHTS RESERVED.<br\/>                        <\/p>",
+            "copyright_content_color": "",
+            "show_payment": true,
+            "payment_margin_top": 0,
+            "heading_payment": "",
+            "payment_type": "custom",
+            "show_payment_visa": false,
+            "show_payment_master": false,
+            "show_payment_maestro": false,
+            "show_payment_american_express": false,
+            "show_payment_apple_pay": false,
+            "show_payment_bitcoin": false,
+            "show_payment_dankort": false,
+            "show_payment_diners_club": false,
+            "show_payment_discover": false,
+            "show_payment_paypal": false,
+            "show_payment_dogecoin": false,
+            "show_payment_dwolla": false,
+            "show_payment_forbrugsforeningen": false,
+            "show_payment_jcb": false,
+            "show_payment_litecoin": false,
+            "show_payment_afterpay": false,
+            "show_payment_google_pay": false,
+            "show_payment_ideal": false,
+            "show_payment_klarna": false,
+            "show_payment_klarna-pay-later": false,
+            "show_payment_shopify_pay": false,
+            "show_payment_sofort": false
           }
         }
       },
@@ -111,7 +153,8 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-2",
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-3",
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-link_list-1",
-        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1"
+        "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1",
+        "7b8885ec-ba83-4216-ba9a-2c62e70d5b89"
       ],
       "custom_css": [
         ".footer-block__subheading.rte h3 {color: white;}"
