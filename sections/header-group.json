@@ -359,7 +359,7 @@
           "type": "logo",
           "settings": {
             "logo_position": "always",
-            "logo": "shopify:\/\/shop_images\/logo.webp",
+            "logo": "shopify:\/\/shop_images\/white.jpg",
             "logo_width": 120,
             "logo_width_fixed": 75,
             "logo_text": "",
