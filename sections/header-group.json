@@ -227,10 +227,10 @@
         "sections--14682829619277__0bbca065-1adb-4f31-9571-358055671f87-16808750661fcf66bb-0": {
           "type": "logo",
           "settings": {
-            "logo_position": "always",
+            "logo_position": "main_menu",
             "logo": "shopify:\/\/shop_images\/logo.webp",
             "logo_width": 135,
-            "logo_width_fixed": 100,
+            "logo_width_fixed": 10,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
