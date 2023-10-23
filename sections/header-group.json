@@ -457,12 +457,27 @@
             "cart_count_bubble_bg": "#d12442",
             "cart_count_bubble_bg_gradient": ""
           }
+        },
+        "b9933545-bb41-4bbb-a23c-b89aa97ff403": {
+          "type": "megamenu_style_1",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "sale",
+            "column": 3,
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": ""
+          }
         }
       },
       "block_order": [
         "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-logo-1",
         "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-main_menu-1",
-        "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-header_icons-1"
+        "sections--16122440155286__229a67e8-9fda-4c89-9ba3-6273cb8004ea-header_icons-1",
+        "b9933545-bb41-4bbb-a23c-b89aa97ff403"
       ],
       "custom_css": [
         "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}"
