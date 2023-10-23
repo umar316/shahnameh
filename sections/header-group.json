@@ -360,8 +360,8 @@
           "settings": {
             "logo_position": "always",
             "logo": "shopify:\/\/shop_images\/white.jpg",
-            "logo_width": 60,
-            "logo_width_fixed": 15,
+            "logo_width": 50,
+            "logo_width_fixed": 10,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
