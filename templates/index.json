@@ -517,7 +517,7 @@
     "6a37778d-885c-4c11-b54a-1cb4168a8ccc": {
       "type": "product-block",
       "custom_css": [
-        ".halo-block-header .title .text {width:700px !important;}"
+        ".halo-block-header .title .text {width: 700px !important;}"
       ],
       "settings": {
         "container": "1770",
@@ -802,7 +802,7 @@
         "featured_collection_block_title": "SHAHNAMEH NEW ARRIVALS AVAILABLE NOW!",
         "enable_border_title": true,
         "color_title": "#202020",
-        "fontsize_title": 14,
+        "fontsize_title": 18,
         "fontsize_title_mb": 16,
         "featured_collection_block_btn_text": "",
         "featured_collection_block_btn_link": "",
