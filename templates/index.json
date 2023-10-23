@@ -516,6 +516,9 @@
     },
     "6a37778d-885c-4c11-b54a-1cb4168a8ccc": {
       "type": "product-block",
+      "custom_css": [
+        ".halo-block-header .title .text {width:700px !important;}"
+      ],
       "settings": {
         "container": "1770",
         "padding_full_width": 0,
