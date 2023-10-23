@@ -113,7 +113,7 @@
             "border_top": true,
             "footer_bottom_color": "#808080",
             "border_top_color": "#282828",
-            "footer_bottom_bg": "#141414",
+            "footer_bottom_bg": "#100f0f",
             "footer_bottom_bg_gradient": "",
             "show_copyright": true,
             "enable_layout_grid": false,
@@ -157,7 +157,8 @@
         "7b8885ec-ba83-4216-ba9a-2c62e70d5b89"
       ],
       "custom_css": [
-        ".footer-block__subheading.rte h3 {color: white;}"
+        ".footer-block__subheading.rte h3 {color: white;}",
+        ".footer__column.footer__column--info {display: none;}"
       ],
       "settings": {
         "container": "1770",
@@ -178,7 +179,7 @@
         "border_footer_top_color": "#282828",
         "pdtop_footer_top": 95,
         "pdbottom_footer_top": 50,
-        "footer_top_bg": "#232323",
+        "footer_top_bg": "#100f0f",
         "footer_top_bg_gradient": "",
         "show_footer_top_bg_img": false,
         "footer_top_bg_position_x": "center",
