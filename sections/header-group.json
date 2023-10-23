@@ -488,7 +488,7 @@
         "header_navigation_bg_gradient": "",
         "header_navigation_border_bottom": "none",
         "header_navigation_border_bottom_color": "#000000",
-        "sticky_header_type": "on_scroll",
+        "sticky_header_type": "always",
         "sticky_header_width": "full"
       }
     }
