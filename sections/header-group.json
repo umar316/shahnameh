@@ -480,8 +480,7 @@
         "b9933545-bb41-4bbb-a23c-b89aa97ff403"
       ],
       "custom_css": [
-        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}",
-        "sticky-header img{display: none;}"
+        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}"
       ],
       "settings": {
         "container": "1770",
