@@ -786,7 +786,7 @@
       "custom_css": [
         "img.ls-is-cached.lazyloaded {padding-right: 2rem; padding-left: 1rem;}",
         ".featured-collection-block .halo-block-header .title {font-style: normal !important;}",
-        "halo-block-header .title .text {width: 500px;}"
+        "halo-block-header .title .text {width: 600px !important;}"
       ],
       "settings": {
         "container": "1770",
