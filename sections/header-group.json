@@ -344,7 +344,7 @@
         "883375a2-e11f-46b2-a3d2-b0a7912f296d"
       ],
       "custom_css": [
-        ".header-navigation.header-nav-full-elements {padding-bottom: 1.5rem; border-bottom: 1px solid #d1d1d1;}"
+        ".header-navigation.header-nav-full-elements {padding-bottom: 1.5rem;}"
       ],
       "settings": {
         "container": "full",
@@ -482,7 +482,8 @@
         "b9933545-bb41-4bbb-a23c-b89aa97ff403"
       ],
       "custom_css": [
-        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}"
+        "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}",
+        ".header-navigation>.container {border-top: 1px solid rgba(0,0,0,.1);}"
       ],
       "settings": {
         "container": "1770",
