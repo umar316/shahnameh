@@ -228,7 +228,7 @@
           "type": "logo",
           "settings": {
             "logo_position": "main_menu",
-            "logo": "shopify:\/\/shop_images\/logo.webp",
+            "logo": "shopify:\/\/shop_images\/shahnameh-logo.png",
             "logo_width": 135,
             "logo_width_fixed": 10,
             "logo_text": "",
@@ -483,7 +483,7 @@
       ],
       "custom_css": [
         "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}",
-        ".header-navigation>.container {border-top: 1px solid rgba(0,0,0,.1);}"
+        ".header-navigation > .container {border-top: 1px solid rgba(0, 0, 0, 0.1);}"
       ],
       "settings": {
         "container": "1770",
