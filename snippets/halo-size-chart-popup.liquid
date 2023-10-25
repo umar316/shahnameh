@@ -44,7 +44,27 @@
 		                alt="{{ img.alt | default: shop.name | escape }}"
 		            >
 				{%- endif -%} {% endcomment %}
-    {{ pages.Size-Chart-Childrens.content }}
+  
+
+                 {%- if product.type == "Children-cloths" -%}
+            {{ pages.Size-Chart-Childrens.content }}
+        
+         {%- elsif product.vendor == "Kurta" -%}
+           {{ pages.Size-Chart-Boys-Kurta.content }}
+           
+        {%- elsif product.vendor == "Men-Kurta" -%}
+           {{ pages.Size-Chart-Men.content }}
+            
+             {%- else -%}
+         
+           
+
+
+       {%- endif -%}
+
+
+
+              
 			</div>
 		</div>
 	</div>
