@@ -49,10 +49,10 @@
                  {%- if product.type == "Children-cloths" -%}
             {{ pages.Size-Chart-Childrens.content }}
         
-         {%- elsif product.vendor == "Kurta" -%}
+         {%- elsif product.type == "Kurta" -%}
            {{ pages.Size-Chart-Boys-Kurta.content }}
            
-        {%- elsif product.vendor == "Men-Kurta" -%}
+        {%- elsif product.type == "Men-Kurta" -%}
            {{ pages.Size-Chart-Men.content }}
             
              {%- else -%}
