@@ -37,9 +37,27 @@
      
         </div>
     {%- endif -%}
-        <a data-toggle="modal" data-target="#halo-size-chart-popup" class="size-chart-open-popup">
+   <script>
+      <a data-toggle="modal" data-target="#halo-size-chart-popup" class="size-chart-open-popup">
                  Size Chart
                 </a>
+  // Add an event listener to the anchor element to handle the click event
+  document.querySelector(".popup-trigger").addEventListener("click", function() {
+    // Find the associated popup element by its ID
+    const popup = document.querySelector("#halo-size-chart-popup");
+
+    // Check if the popup element exists and toggle its visibility
+    if (popup) {
+      // You can use a class to control visibility or directly modify the style
+      if (popup.style.display === "none" || popup.style.display === "") {
+        popup.style.display = "block";
+      } else {
+        popup.style.display = "none";
+      }
+    }
+  });
+</script>
+       
     {%- if show_product_type and product.type != blank -%}
         <div class="productView-info-item">
             <span class="productView-info-name">
