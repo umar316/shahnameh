@@ -6073,4 +6073,5 @@ summary::-webkit-details-marker {
 }
 .productView-sizeChart-custom{
   display:block !important;
+  text-align:right;
 }
