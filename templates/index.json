@@ -1230,7 +1230,7 @@
     "460fcf80-2d19-4954-853d-be268612b251": {
       "type": "video-block",
       "settings": {
-        "container": "1770",
+        "container": "fullwidth",
         "mg_top_desktop": 0,
         "mg_top_tablet": 0,
         "mg_top_mobile": 0,
