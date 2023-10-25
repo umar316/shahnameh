@@ -6069,8 +6069,8 @@ summary::-webkit-details-marker {
     }
 }
 .productView-sizeChart{
-  display:none;
+  display:none !important;
 }
 .productView-sizeChart-custom{
-  display:block;
+  display:block !important;
 }
