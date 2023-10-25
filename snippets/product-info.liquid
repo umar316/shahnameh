@@ -38,9 +38,7 @@
         </div>
     {%- endif -%}
    <script>
-      <a data-toggle="modal" data-target="#halo-size-chart-popup" class="size-chart-open-popup">
-                 Size Chart
-                </a>
+  
   // Add an event listener to the anchor element to handle the click event
   document.querySelector(".popup-trigger").addEventListener("click", function() {
     // Find the associated popup element by its ID
@@ -57,7 +55,9 @@
     }
   });
 </script>
-       
+           <a data-toggle="modal" data-target="#halo-size-chart-popup" class="size-chart-open-popup">
+                 Size Chart
+                </a>
     {%- if show_product_type and product.type != blank -%}
         <div class="productView-info-item">
             <span class="productView-info-name">
