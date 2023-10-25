@@ -1227,6 +1227,36 @@
         "content_gap": 230
       }
     },
+    "460fcf80-2d19-4954-853d-be268612b251": {
+      "type": "video-block",
+      "settings": {
+        "container": "container",
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 10,
+        "mg_bottom_tablet": 10,
+        "mg_bottom_mobile": 10,
+        "spotlight_bg": "#fff",
+        "spotlight_bg_gradient": "",
+        "video_block_title": "",
+        "color_title": "#232323",
+        "fontsize_title": 16,
+        "fontsize_title_mb": 22,
+        "margin_bottom_title": 45,
+        "video_block_des": "",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 16,
+        "title_align": "center",
+        "autoplay": true,
+        "video_height": "54",
+        "style_video": "youtube",
+        "video_url": "https:\/\/youtu.be\/8vDUXpEExco",
+        "url_mp4": "",
+        "description": "",
+        "full_width": false
+      }
+    },
     "a1e55f80-c077-4796-bf04-ebbc3db5736a": {
       "type": "policies-block",
       "blocks": {
@@ -1336,6 +1366,7 @@
     "9b91507c-5186-4fde-a06a-d5f99b628415",
     "be9d41c9-54b9-401a-8316-95f1039d28ce",
     "9cccce0e-6d05-4032-8f9e-d45edc971b91",
+    "460fcf80-2d19-4954-853d-be268612b251",
     "a1e55f80-c077-4796-bf04-ebbc3db5736a"
   ]
 }
