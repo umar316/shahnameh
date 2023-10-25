@@ -123,7 +123,7 @@
             "spacing_top": 0,
             "spacing_bottom": 22,
             "show_size_chart": true,
-            "size_chart_type": "custom_image",
+            "size_chart_type": "metafield",
             "size_chart_image_type": "png",
             "size_chart_image": "shopify:\/\/shop_images\/boys-kurta.webp",
             "show_compare_color": true,
