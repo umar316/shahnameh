@@ -15,7 +15,7 @@
 		</div>
 		<div class="halo-popup-content halo-popup-scroll custom-scrollbar">
 			<div class="halo-size-chart text-center {{ product.metafields.c_f.size_chart }}">
-				{%- if size_chart_type == 'metafield' -%}
+				{% comment %} {%- if size_chart_type == 'metafield' -%}
 					{% assign img = product.metafields.c_f.size_chart %}
 					<img srcset="{{ img }}"
 		                src="{{ img }}"
@@ -43,7 +43,8 @@
 		                loading="lazy"
 		                alt="{{ img.alt | default: shop.name | escape }}"
 		            >
-				{%- endif -%}
+				{%- endif -%} {% endcomment %}
+    {{ pages.Size-Chart-Childrens.content }}
 			</div>
 		</div>
 	</div>
