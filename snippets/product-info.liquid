@@ -34,6 +34,13 @@
                     {{ 'products.product.many_in_stock' | t }}
                 {% endif %}
             </span>
+          {% for tag in product.tags %}
+                   	{% if tag contains 'Sizechart_' %}
+                <a data-toggle="modal" data-target="#size_chart" class="size-chart-open-popup">
+                  {% render 'multilang' with settings.size_guide_text %}
+                </a>
+                	{% endif %}
+                {% endfor %} 
         </div>
     {%- endif -%}
     {%- if show_product_type and product.type != blank -%}
