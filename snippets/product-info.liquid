@@ -34,11 +34,12 @@
                     {{ 'products.product.many_in_stock' | t }}
                 {% endif %}
             </span>
-         <a data-toggle="modal" data-target="#size_chart" class="size-chart-open-popup">
-                 Size Chart
-                </a>
+     
         </div>
     {%- endif -%}
+        <a data-toggle="modal" data-target="#size_chart" class="size-chart-open-popup">
+                 Size Chart
+                </a>
     {%- if show_product_type and product.type != blank -%}
         <div class="productView-info-item">
             <span class="productView-info-name">
