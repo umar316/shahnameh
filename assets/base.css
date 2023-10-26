@@ -6077,5 +6077,5 @@ summary::-webkit-details-marker {
   text-align:right !important;
 }
 .productView-sizeChart .link {
-    display: inline-block;
+    display: inline-block !important;
 }
