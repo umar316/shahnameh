@@ -6068,6 +6068,9 @@ summary::-webkit-details-marker {
         transition: none !important;
     }
 }
+.productView-sizeChart .link {
+    display: inline-block;
+}
 .productView-sizeChart{
   display:none !important;
 }
