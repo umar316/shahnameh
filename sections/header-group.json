@@ -351,7 +351,7 @@
         "padding_full_width": 0,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
-        "sticky_header_type": "always",
+        "sticky_header_type": "none",
         "sticky_header_width": "full"
       }
     },
@@ -492,7 +492,7 @@
         "header_navigation_bg_gradient": "",
         "header_navigation_border_bottom": "none",
         "header_navigation_border_bottom_color": "#000000",
-        "sticky_header_type": "none",
+        "sticky_header_type": "always",
         "sticky_header_width": "full"
       }
     }
