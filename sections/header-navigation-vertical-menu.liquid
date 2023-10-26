@@ -193,7 +193,7 @@
                     {%- endif -%}
                     {%- if settings.show_wishlist -%}
                         {%- if block.settings.show_wishlist or block.settings.show_wishlist_sticky -%}
-                            <a href="{{ pages['wish-list'].url }}" class="header__icon header__icon--wishlist link link--text focus-inset h-100{% if block.settings.show_wishlist_sticky %}{% if block.settings.show_wishlist %}{% else %} hide-main-menu{% endif %}{% else %}{% if block.settings.show_wishlist %} show-main-menu{% endif %}{% endif %}">
+                            <a href="https://dev-test-store-ecom-2.myshopify.com/pages/wishlist" class="header__icon header__icon--wishlist link link--text focus-inset h-100{% if block.settings.show_wishlist_sticky %}{% if block.settings.show_wishlist %}{% else %} hide-main-menu{% endif %}{% else %}{% if block.settings.show_wishlist %} show-main-menu{% endif %}{% endif %}">
                                 {% render 'icon-heart-2', class: 'w-h-25' %}
                                 <span class="visually-hidden">{{ 'wishlist.general.wishlist' | t }}</span>
                             </a>
