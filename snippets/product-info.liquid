@@ -47,8 +47,8 @@
                     Size Guide
                 </span>
             </a>
-        </div></div>
-    {%- if show_product_type and product.type != blank -%}
+        </div></div> 
+ {% comment %}   {%- if show_product_type and product.type != blank -%}
         <div class="productView-info-item">
             <span class="productView-info-name">
                 {{ 'products.product.text.type' | t }}
@@ -57,5 +57,5 @@
                 {{ product.type | escape }}
             </span>
         </div>
-    {%- endif -%}
+    {%- endif -%}{% endcomment %}
 </div>
