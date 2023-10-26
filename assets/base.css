@@ -6068,13 +6068,14 @@ summary::-webkit-details-marker {
         transition: none !important;
     }
 }
-.productView-sizeChart .link {
-    display: inline-block;
-}
+
 .productView-sizeChart{
   display:none !important;
 }
 .productView-sizeChart-custom{
   display:block !important;
   text-align:right !important;
+}
+.productView-sizeChart .link {
+    display: inline-block;
 }
