@@ -6082,6 +6082,6 @@ summary::-webkit-details-marker {
 a.logo-img {
     display: flex;
     justify-content: center;
-  padding-top: 2rem;
+  padding-top: 2.5rem;
   padding-bottom: 2rem;
 }
