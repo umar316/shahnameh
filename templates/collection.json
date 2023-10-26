@@ -114,6 +114,7 @@
         },
         "ce351101-2c54-4627-b740-b2c592067b4a": {
           "type": "filter",
+          "disabled": true,
           "settings": {
             "heading": "Color",
             "list_tags": "White,Black,Blue,Invory,Beige,Brown,Silver,Olive,Gainsboro,DimGray,Burlywood,Lightblue,Salmon,LightPink,LightCoral"
@@ -165,6 +166,13 @@
             "heading": "Custom Block",
             "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
           }
+        },
+        "6d31f7e5-a37f-4b48-a283-085b84d3311c": {
+          "type": "filter",
+          "settings": {
+            "heading": "Color",
+            "list_tags": "Black, Blue, Grey, Red"
+          }
         }
       },
       "block_order": [
@@ -175,7 +183,8 @@
         "3978fd59-b580-49e1-9893-38d762f48f10",
         "34930b49-8499-46d3-bf41-2cbb334ca73d",
         "68de7154-5a7a-4771-9f10-096055a254d4",
-        "2f7f02ac-4072-40ea-844f-59943e256971"
+        "2f7f02ac-4072-40ea-844f-59943e256971",
+        "6d31f7e5-a37f-4b48-a283-085b84d3311c"
       ],
       "settings": {
         "colors_bg": "rgba(0,0,0,0)",
