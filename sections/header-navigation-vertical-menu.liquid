@@ -29,9 +29,6 @@
     @media screen and (min-width:1440px){.header__menu-vertical .has-megamenu .menu-dropdown{min-width:calc(100vw - 560px)}.section-header-navigation:not(.scrolled-past-header) .header-nav-vertical-menu .customer-service-text+.icons-top-right:not(.ml-0){margin-left:35px}}
     @media screen and (min-width:1700px){.header__menu-vertical .has-megamenu .menu-dropdown{min-width:1100px}}
 </style>
-<div class="header header-heading">
- <a href="/" class="header__heading-link focus-inset"><img srcset="//dev-test-store-ecom-2.myshopify.com/cdn/shop/files/shahnameh-logo_160x.png?v=1698124224, //dev-test-store-ecom-2.myshopify.com/cdn/shop/files/shahnameh-logo_320x.png?v=1698124224 2x" src="//dev-test-store-ecom-2.myshopify.com/cdn/shop/files/shahnameh-logo_160x.png?v=1698124224" loading="lazy" class="header__heading-logo logo__main w-100 h-auto ver-alg-mid d-inline-block" alt="Dev Test Store Ecom 2" width="40" height="25"></a>
-</div>
 
 <{% if section.settings.sticky_header_type != 'none' %}sticky-header data-sticky-type="{{ section.settings.sticky_header_type }}"{% else %}div{% endif %} class="header-navigation-wrapper">
 <div class="header-navigation header-nav-vertical-menu" style="--header_navigation_rgb: {{ section.settings.header_navigation_border_bottom_color | color_to_rgb | remove: 'rgb(' | remove: ')' }}">
