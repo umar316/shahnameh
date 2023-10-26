@@ -110,7 +110,7 @@
           "settings": {
             "pdtop_footer_bottom": 0,
             "pdbottom_footer_bottom": 0,
-            "border_top": true,
+            "border_top": false,
             "footer_bottom_color": "#808080",
             "border_top_color": "#282828",
             "footer_bottom_bg": "#100f0f",
