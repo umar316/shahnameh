@@ -6093,3 +6093,9 @@ ul.menu-lv-item > li:first-child > a span {
     -moz-animation: 1s blinker linear infinite !important;
     color: red;
 }
+.menu-lv-item .menu-lv-1 .menu-sale span .text .p-relative{
+    animation: 1s blinker linear infinite !important;
+    -webkit-animation: 1s blinker linear infinite !important;
+    -moz-animation: 1s blinker linear infinite !important;
+    color: red;
+}
