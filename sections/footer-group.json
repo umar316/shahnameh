@@ -158,7 +158,8 @@
       ],
       "custom_css": [
         ".footer-block__subheading.rte h3 {color: white;}",
-        ".footer__column.footer__column--info {display: none;}"
+        ".footer__column.footer__column--info {display: none;}",
+        ".footer-block__subheading.rte .footer-block__heading{display: flex;}"
       ],
       "settings": {
         "container": "1770",
