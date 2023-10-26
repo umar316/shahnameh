@@ -6079,3 +6079,7 @@ summary::-webkit-details-marker {
 .productView-sizeChart .link {
     display: inline-block !important;
 }
+a.logo-img {
+    display: flex;
+    justify-content: center;
+}
