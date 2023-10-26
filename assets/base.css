@@ -6086,10 +6086,4 @@ a.logo-img {
   padding-bottom: 2rem;
 }
 
-ul.menu-lv-item > li:first-child > a span {
 
-    animation: 1s blinker linear infinite !important;
-    -webkit-animation: 1s blinker linear infinite !important;
-    -moz-animation: 1s blinker linear infinite !important;
-    color: red;
-}
