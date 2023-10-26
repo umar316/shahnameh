@@ -6085,3 +6085,13 @@ a.logo-img {
   padding-top: 2.5rem;
   padding-bottom: 2rem;
 }
+
+ul.menu-lv-item > li:first-child > a span {
+    color: #ff0000;
+    font-size: 18px;
+    font-weight: 800;
+    animation: 1s blinker linear infinite;
+    -webkit-animation: 1s blinker linear infinite;
+    -moz-animation: 1s blinker linear infinite;
+    color: red;
+}
