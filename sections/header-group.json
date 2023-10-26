@@ -364,7 +364,7 @@
           "settings": {
             "logo_position": "always",
             "logo": "shopify:\/\/shop_images\/white_c4a69d9e-6e6c-4ec2-92ee-f3a0d9c39118.jpg",
-            "logo_width": 50,
+            "logo_width": 100,
             "logo_width_fixed": 10,
             "logo_text": "",
             "logo_font_size": 20,
