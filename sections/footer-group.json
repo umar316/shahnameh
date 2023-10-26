@@ -58,7 +58,7 @@
         "sections--16122440188054__1deeaf81-bbd5-4cfd-8032-f997504e9b7d-newsletter-1": {
           "type": "newsletter",
           "settings": {
-            "custom_width": "40",
+            "custom_width": "36",
             "newsletter_style": "style1",
             "newsletter_margin_bottom": 45,
             "newsletter_padding_bottom": 0,
