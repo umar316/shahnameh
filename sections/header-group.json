@@ -343,6 +343,7 @@
         "17a5bd50-1afc-48fc-b3c9-a45a436a72c7",
         "883375a2-e11f-46b2-a3d2-b0a7912f296d"
       ],
+      "disabled": true,
       "custom_css": [
         ".header-navigation.header-nav-full-elements {padding-bottom: 1.5rem;}"
       ],
