@@ -58,6 +58,7 @@
         "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a",
         "9f9a1a80-3370-40db-9cd2-836840e2073b"
       ],
+      "disabled": true,
       "settings": {
         "show_breadcrumb": false,
         "breadcrumb_alignment": "left",
