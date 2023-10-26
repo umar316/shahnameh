@@ -87,7 +87,6 @@
           "type": "lookbook",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/sh1.webp",
             "link": "",
             "show_title": true,
             "page_title_alignment": "left",
