@@ -3,15 +3,6 @@
     "banner": {
       "type": "main-collection-banner",
       "blocks": {
-        "9f9a1a80-3370-40db-9cd2-836840e2073b": {
-          "type": "image",
-          "settings": {
-            "show_image_parallax": false,
-            "show_bg_overlay": false,
-            "type": "custom",
-            "bg_overlay": "#000000"
-          }
-        },
         "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a": {
           "type": "description",
           "settings": {
@@ -52,11 +43,20 @@
             "sub_collection_border_hover": "#232323",
             "sub_collection_mg_top": 0
           }
+        },
+        "9f9a1a80-3370-40db-9cd2-836840e2073b": {
+          "type": "image",
+          "settings": {
+            "show_image_parallax": false,
+            "show_bg_overlay": false,
+            "type": "custom",
+            "bg_overlay": "#000000"
+          }
         }
       },
       "block_order": [
-        "9f9a1a80-3370-40db-9cd2-836840e2073b",
-        "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a"
+        "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a",
+        "9f9a1a80-3370-40db-9cd2-836840e2073b"
       ],
       "settings": {
         "show_breadcrumb": false,
