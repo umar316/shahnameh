@@ -6022,7 +6022,7 @@ summary::-webkit-details-marker {
 }
 
 @media (min-width: 768px) and (max-width: 1024px){
- announcement-bar-component a.logo-img {
+ div#shopify-section-sections--16122440155286__announcement-bar a.logo-img {
     display:none;
   }
     /* START: Lookbook */
