@@ -6092,3 +6092,6 @@ a.logo-img {
 ul.menu-lv-item > li:first-child > a:hover {
   color: red;
 }
+a[href="/collections/new-arrivals"] > span.header__active-menu-item:hover {
+    color: red !important
+}
