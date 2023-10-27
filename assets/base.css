@@ -6088,7 +6088,4 @@ a.logo-img {
   padding-top: 2.5rem;
   padding-bottom: 2rem;
 }
-.menu-dropdown__text a.active-sale, .menu-sale>.header__menu-item, .menu-sale>details>.menu--mobile-lv-1__action, .menu-sale>.site-nav-list-dropdown>.menu-lv-2__action, .menu-sale>details>.menu--mobile-lv-2__action, .menu-sale>.menu--mobile-lv-3__action, .active-sale>.site-nav-link, .active-sale.site-nav-title::hover{
-color:red;
-}
 
