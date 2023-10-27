@@ -484,7 +484,8 @@
       ],
       "custom_css": [
         "img.header__heading-logo.w-100.h-auto.ver-alg-mid.d-inline-block {padding-bottom: 2rem; padding-top: 2rem;}",
-        ".header-navigation > .container {border-top: 1px solid rgba(0, 0, 0, 0.1);}"
+        ".header-navigation > .container {border-top: 1px solid rgba(0, 0, 0, 0.1);}",
+        "span.text.p-relative {font-size: 16px; text-align: right;}"
       ],
       "settings": {
         "container": "1770",
