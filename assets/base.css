@@ -6065,7 +6065,11 @@ summary::-webkit-details-marker {
         }
     /* END: Block */
 }
-
+@media only screen and (max-width: 768px) {
+ div#shopify-section-sections--16122440155286__announcement-bar a.logo-img {
+    display:none;
+  }
+}
 @media (prefers-reduced-motion){
     .motion-reduce {
         transition: none !important;
