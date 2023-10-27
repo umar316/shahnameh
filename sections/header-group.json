@@ -66,7 +66,7 @@
           "type": "logo",
           "settings": {
             "logo_mobile": "shopify:\/\/shop_images\/logo.webp",
-            "logo_width_mobile": 150,
+            "logo_width_mobile": 110,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
@@ -487,7 +487,7 @@
         ".header-navigation > .container {border-top: 1px solid rgba(0, 0, 0, 0.1);}",
         "span.text.p-relative {font-size: 15px; margin-left: 2rem;}",
         "ul.list-menu.list-menu--inline.text-center {margin-left: 2rem;}",
-        "a[href=\"\/collections\/new-arrivals\"] > span .text .p-relative:hover {color: red !important}"
+        "a[href=\"\/collections\/new-arrivals\"] > span .text .p-relative:hover {color: red !important;}"
       ],
       "settings": {
         "container": "1770",
