@@ -54,9 +54,21 @@
            
        {%- elsif product.type == "Men-Kurta" -%}
            {{ pages.Size-Chart-Mens.content }} 
-
+ {%- elsif product.type == "boys-suit" -%}
+           {{ pages.Boys-Suit.content }} 
            
+ {%- elsif product.type == "Boys-Waistcoat" -%}
+           {{ pages.Boys-Waistcoat.content }} 
 
+               
+ {%- elsif product.type == "Boys-Pajama" -%}
+           {{ pages.Boys-Pajama.content }} 
+                     
+ {%- elsif product.type == "Men-Waistcoat" -%}
+           {{ pages.Mens-Waistcoat.content }} 
+                         
+ {%- elsif product.type == "Men-Straight-Pajama" -%}
+           {{ pages.Men-Straight-Pajama.content }} 
              {%- else -%}
          
            
